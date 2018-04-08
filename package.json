@@ -1,0 +1,23 @@
+{
+  "name": "command-line-word-guess",
+  "version": "1.0.0",
+  "description": "Command line word guess game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theconnorthomas/command-line-word-guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theconnorthomas/command-line-word-guess/issues"
+  },
+  "homepage": "https://github.com/theconnorthomas/command-line-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
